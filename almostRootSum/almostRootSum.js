@@ -1,0 +1,1 @@
+almostRootSum=n=> Math.round(Math.sqrt(n))*2-1

@@ -1,0 +1,1 @@
+iDontKnow=n=>n*(n-1)+"";
